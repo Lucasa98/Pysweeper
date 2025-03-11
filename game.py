@@ -19,7 +19,7 @@ class Game:
 
     def start(self, x, y, seed = 0):
         """
-        Start a game
+        Start a game. It's meant to start clicking on a cell for the first time
 
         Parameters:
             x (int): first clicked cell x-coordinate
